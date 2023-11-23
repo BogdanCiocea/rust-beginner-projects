@@ -76,3 +76,6 @@ pub mod coin_estimator_by_weight;
 
 /// Mad Libs Story Maker Solution
 pub mod mad_libs;
+
+// Dice Rolling Simulator Solution
+pub mod dice_rolling_simulator;
