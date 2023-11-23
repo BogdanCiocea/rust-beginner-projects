@@ -34,7 +34,7 @@ To view documentation, run `cargo doc --open`
 - [ ] Multiplication Table
 - [ ] Fibonacci Sequence
 - [ ] Hangman Game
-- [ ] Dice Rolling Simulator
+- [x] Dice Rolling Simulator
 - [ ] Factors of a Number
 - [ ] Countdown Clock
 - [ ] Black Jack
