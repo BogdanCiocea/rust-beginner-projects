@@ -37,7 +37,7 @@
 //! - [ ] Base Jumper
 //! - [ ] Hangman Game
 //! - [ ] Menu Calculator
-//! - [ ] Dice Rolling Simulator
+//! - [x] Dice Rolling Simulator
 //!   - [ ] Bonus
 //! - [ ] Count and Fix Green Eggs and Ham
 //! - [ ] What's My Number?
